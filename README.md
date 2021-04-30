@@ -1,3 +1,3 @@
 # desafio-web-service
 
-desafio feito consumindo da API da Marvel
+desafio feito consumindo a API da Marvel
